@@ -1,0 +1,8 @@
+C:\Users\Klein\Desktop\Fruits\Fruits\bin\Debug\Fruits.exe.config
+C:\Users\Klein\Desktop\Fruits\Fruits\bin\Debug\Fruits.exe
+C:\Users\Klein\Desktop\Fruits\Fruits\bin\Debug\Fruits.pdb
+C:\Users\Klein\Desktop\Fruits\Fruits\obj\Debug\Fruits.csproj.AssemblyReference.cache
+C:\Users\Klein\Desktop\Fruits\Fruits\obj\Debug\Fruits.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klein\Desktop\Fruits\Fruits\obj\Debug\Fruits.csproj.CoreCompileInputs.cache
+C:\Users\Klein\Desktop\Fruits\Fruits\obj\Debug\Fruits.exe
+C:\Users\Klein\Desktop\Fruits\Fruits\obj\Debug\Fruits.pdb
